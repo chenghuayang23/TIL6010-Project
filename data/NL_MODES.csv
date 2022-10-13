@@ -1,0 +1,273 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Mobility; per person, trip characteristics, modes of travel and regions";"per person, trip characteristics, modes";"84708ENG";"Trips, distance travelled, time travelled, per person per day/year
+trip characteristics, modes of travel and regions";"2022-07-08T02:00:00";"Update";"";"en";"CBS";"Yearly";"2021";"
+This table contains information regarding the mobility of the residents of the Netherlands aged 6 or older in private households, so excluding residents of institutions and homes. The table contains per person per day /year an overview of the average number of trips, the average distance travelled and the average time travelled. These are regular trips on Dutch territory, including domestic holiday mobility. The distance travelled is based on stage information. Excluded in this table is mobility based on series of calls trips. The mobility behaviour is broken down by trip characteristics, modes of travel,  and region characteristics. The data used are retrieved from The Dutch National travel survey named Onderweg in Nederland (ODiN). 
+
+Data available from: 2018
+
+Status of the figures:
+The figures in this table are final.
+
+Changes as of 8 July 2022:
+The figures for year 2021 are added.
+
+When will new figures be published?
+Figures for the 2022 research year will be published in mid-2023
+ ";"CONTENTS
+
+1. General information
+2. Definitions and explanation of symbols
+3. Links to relevant tables and articles
+4. Sources and methods
+5. Further information
+
+1. GENERAL INFORMATION
+
+This table contains information regarding the mobility of the residents of the Netherlands aged 6 or older in private households, so excluding residents of institutions and homes. The table contains per person per day /year an overview of the average number of trips, the average distance travelled and the average time travelled. These are regular trips on Dutch territory, including domestic holiday mobility. The distance travelled is based on stage information. Excluded in this table is mobility based on series of calls trips. The mobility behaviour is broken down by trip characteristics, modes of travel,  and region characteristics. The data used are retrieved from The Dutch National travel survey named Onderweg in Nederland (ODiN). 
+
+Data available from: 2018
+
+Status of the figures:
+The figures in this table are final.
+
+Changes as of 8 July 2022:
+The figures for year 2021 are added.
+
+When will new figures be published?
+Figures for the 2022 research year will be published in mid-2023
+ 
+2. DEFINITIONS AND EXPLANATION OF SYMBOLS
+
+Definitions
+
+Trip 
+The unit of travel, a trip, is defined as a one-way course of travel with a single main purpose. For example: the distance travelled from home to work is one trip only regardless of whether one or more means of transport are used.
+
+Stage 
+A trip consists of one or more stages. A new stage is defined when there is a change in the form of transport or when there is a change of vehicle.
+
+Regular trips
+Regular trips concern the daily mobility in the Netherlands of the Dutch population aged 6 years and over in private households. This includes domestic holiday mobility. Successive work-related movements with a maximum of 3 consecutive work locations, are also included. Series of calls trips and (professional) road transport with a heavy freight vehicle are not considered regular trips.
+
+Regular passenger kilometres
+Regular passenger kilometres are the kilometres travelled during regular trips. It only concerns kilometres travelled on Dutch territory. Regular passenger kilometres by mode of transport have been calculated on the basis of the stage mode so that the distances of means of transport used for pre- and post-transport are also measured separately. For example, in the case of a journey from home to work with successively the bicycle to the station, the train and on foot to the office, the kilometres travelled by a stage mode of transport are assigned to the relevant mode of transport. Kilometres by plane are not counted.
+
+Series of calls trips 
+In order to reduce the burden on respondents in ODiN, travel involving 4 or more consecutive stops for the same main purpose ‘in course of work’ are treated as one continuous series of calls trip. Series of call trips are made, for example, by taxi drivers, parcel deliverers or a doctor’s round. Professional (series) trips with a heavy freight vehicle are not included in the calculation.
+
+Domestic holiday mobility
+Domestic holiday mobility concerns mobility in the Netherlands of the Dutch population because of holidays. These are both trips due to holidays in the Netherlands and the kilometres travelled on the way there or the way back on Dutch territory during a holiday abroad. Holidays are defined as staying outside your own home for relaxation or fun other than with family or acquaintances spent at home. Domestic holiday mobility is part of the regular passenger kilometres and of regular trips.
+
+Explanation of symbols:
+
+Empty cell	: figure not applicable
+. 		: figure is unknown, insufficiently reliable or confidential
+*		: provisional figure 
+**		: revised provisional figure
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+Relevant tables:
+
+This table (ODiN) succeeds the tabel <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83495ned'>Personenmobiliteit in Nederland; persoonskenmerken en reismotieven, regio's, 2010-2017</a> 
+from the OViN (Dutch only)
+
+Other ODiN tables:
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84713eng'>Mobility; per person, personal characteristics, travel purposes and regions</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84709eng'>Mobility; per person, personal characteristics, modes of travel and regions</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84702eng'>Mobility; per person, trip characteristics, travel purposes and region</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84710eng'>Mobility; per person, modes of travel, purposes of travel and regions</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84711eng'>Mobility; per trip, modes of travel, purposes of travel and regions</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84687eng'>Total transport performance in the Netherlands; modes of travel and regions</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84755eng'>Mobility trend; per stage, modes of travel, purposes of travel, age and gender</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84707eng'>Traffic participation and participation in public transport</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/85055eng'>Mobility; per trip, purposes of travel, trip characteristics, and regions</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/85056eng'>Mobility; per trip, trip characteristics, modes of travel, and regions</a>
+
+4. SOURCES AND METHODS
+
+A survey summary of samples and registrations in English is available in: <a href='https://www.cbs.nl/en-gb/onze-diensten/methods/surveys/korte-onderzoeksbeschrijvingen/dutch-national-travel-survey'>Dutch National Travel survey (cbs.nl)</a>
+
+An elaborate report about ODiN results and changes in 2018-2020 is available in Dutch:
+
+<a href='https://www.cbs.nl/nl-nl/longread/rapportages/2022/onderweg-in-nederland--odin---2018-2020'>Eindrapportage heropleveringen ODiN 2018-2020</a>
+
+A more detailed description of samples, registrations and the method used available in Dutch:
+
+<a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/aanvullende onderzoeksbeschrijvingen/onderweg-in-nederland--odin---onderzoeksbeschrijving-2018'>Onderweg in Nederland (ODiN) 2018</a>.
+<a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/aanvullende-onderzoeksbeschrijvingen/onderweg-in-nederland--odin---onderzoeksbeschrijving-2019'>Onderweg in Nederland (ODiN) 2019</a>.
+<a href='https://www.cbs.nl/nl-nl/longread/rapportages/2021/onderweg-in-nederland--odin---2020-onderzoeksbeschrijving'>Onderweg in Nederland (ODiN) 2020</a>.
+
+5. FURTHER INFORMATION
+
+<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source.
+";"ts=1655898764123&graphtype=Table&r=ModesOfTravel,TripCharacteristics&k=Topics,RegionCharacteristics,Periods&t=Population,Margins&_gu=NL";"$filter=((ModesOfTravel eq 'T001093') or (ModesOfTravel eq 'A048583') or (ModesOfTravel eq 'A018984')) and ((Population eq 'A048710')) and ((TripCharacteristics eq '2030871') or (TripCharacteristics eq '2030891') or (TripCharacteristics eq '2031130') or (TripCharacteristics eq '2031160') or (TripCharacteristics eq '2820702') or (TripCharacteristics eq '2820706') or (TripCharacteristics eq 'T001005') or (TripCharacteristics eq 'A025263') or (TripCharacteristics eq 'A025264')) and ((Margins eq 'MW00000')) and ((RegionCharacteristics eq 'PV27    ') or (RegionCharacteristics eq 'NL01    '))";"Table,Bar,Map";"Regular";"CBS.";"2022-07-08T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"ModesOfTravel";"Modes of travel";"";;;;;
+"1";"1";;"Dimension";"Population";"Population";"";;;;;
+"2";"2";;"Dimension";"TripCharacteristics";"Trip characteristics";"";;;;;
+"3";"3";;"Dimension";"Margins";"Margins";"";;;;;
+"4";"4";;"GeoDimension";"RegionCharacteristics";"Region characteristics";"";;;;;
+"5";"5";;"Dimension";"Periods";"Periods";"";;;;;
+"6";;;"TopicGroup";"";"Average per person per day";"This is the average over all persons of living in the Netherlands in private households, so excluding residents of institutions and homes. The average also includes people who indicated that they had not travelled on the survey day. ";;;;;
+"7";"6";"6";"Topic";"Trips_1";"Trips";"The average number of trips per person per year. A trip, is  a one-way course of travel with a single main purpose  regardless of whether one or more means of transport are used. Switching to another mode of transport does not count as a new trip. In tables showing trips in combination with mode of transport, the main mode of transport is used. For trips made with multiple modes of transport, the vehicle with which the longest distance has been travelled is the main mode of transport. For example, when travelling from home to work with successively the bicycle (3 km) to the station, the train (50 km) and on foot (1 km) to the office, the entire trip is counted as one train trip of 54 km.                                                                                                                                   ";;"Double";"number";"2";"Missing"
+"8";"7";"6";"Topic";"DistanceTravelled_2";"Distance travelled                      ";"The average number of passenger kilometres travelled by a person in a year. The distance travelled per mode of travel is counted on basis of mode of transport of a stage so that pre-transport and post-transport are measured separately. For example, when travelling from home to work with successively the bicycle to the station, the train and on foot to the office, the passenger kilometers for the three modes of transport are counted separately.                                                                                                                              ";;"Double";"passenger kilometres ";"2";"Missing"
+"9";"8";"6";"Topic";"TimeTravelled_3";"Time travelled                          ";"This is the average travel time per person per year based on trips. In the case of trips made with several modes of transport, a main mode of transport is determined on the basis of use at the longest distance. For example, a trip from home to work with successively the bicycle (3 km) to the station, the train (50 km) and on foot (1 km) to the office, is counted as one train trip of 54 km.                                                                                                                                       ";;"Double";"minutes";"2";"Missing"
+"10";;;"TopicGroup";"";"Average per person per year";"This is the average over all persons of living in the Netherlands in private households, so excluding residents of institutions and homes. The average also includes people who indicated that they had not travelled on the survey day. ";;;;;
+"11";"9";"10";"Topic";"Trips_4";"Trips";"The average number of trips per person per year. A trip, is  a one-way course of travel with a single main purpose  regardless of whether one or more means of transport are used. Switching to another mode of transport does not count as a new trip. In tables showing trips in combination with mode of transport, the main mode of transport is used. For trips made with multiple modes of transport, the vehicle with which the longest distance has been travelled is the main mode of transport. For example, when travelling from home to work with successively the bicycle (3 km) to the station, the train (50 km) and on foot (1 km) to the office, the entire trip is counted as one train trip of 54 km.   ";;"Long";"number";"0";"Missing"
+"12";"10";"10";"Topic";"DistanceTravelled_5";"Distance travelled   ";"The average number of passenger kilometres travelled by a person in a year. The distance travelled per mode of travel is counted on basis of mode of transport of a stage so that pre-transport and post-transport are measured separately. For example, when travelling from home to work with successively the bicycle to the station, the train and on foot to the office, the passenger kilometers for the three modes of transport are counted separately.                                                                                                             ";;"Long";"passenger kilometres ";"0";"Missing"
+"13";"11";"10";"Topic";"TimeTravelled_6";"Time travelled    ";"This is the average travel time per person per year based on trips. In the case of trips made with several modes of transport, a main mode of transport is determined on the basis of use at the longest distance. For example, a trip from home to work with successively the bicycle (3 km) to the station, the train (50 km) and on foot (1 km) to the office, is counted as one train trip of 54 km.       
+";;"Double";"hours";"1";"Missing"
+"ModesOfTravel"
+Key;Title;Description
+"T001093";"Total";""
+"A048583";"Passenger car (driver)";"This includes drivers of a passenger car (also: passenger car in use for work or supplied by the company, service car, lease car (business or private), courtesy or rental car, loaned car, passenger car assistance vehicle), but excluding taxi drivers and delivery van drivers."
+"A048584";"Passenger car (passenger)";"Person who rides along in a passenger car (with the exception of passenger taxi and passenger delivery van)."
+"A018981";"Train";"Includes: express train, stopping train, sprinter, high-speed train, channel tunnel train, TGV, ICE."
+"A018982";"Bus/metro";"Bus: this includes only (scheduled) buses for public transport such as: city bus, bus, interliner, call-up bus service, trolley bus, coach only if used for (replacement) of public transport, transferium bus. Tram: also includes light rail, high-speed tram, RandstadRail. Metro: underground, subway."
+"A018984";"Bike";"Bicycle: this includes: both a non-electric and electric bike, (also a speedpedelec with yellow license plate) but also a bicycle passenger who takes a seat on the back or front of a bike."
+"A018985";"Walking";"This includes all travel on foot possibly with a walker, crutches, stick etcetera."
+"A018986";"Other";""
+"Population"
+Key;Title;Description
+"A048710";"Population 6 years or older";""
+"A048709";"Population: 12 years or older";""
+"TripCharacteristics"
+Key;Title;Description
+"2030851";"Time travelled: 0 to 9 minutes";""
+"2030871";"Time travelled: 10 to 19 minutes";""
+"2030891";"Time travelled: 20 to 29 minutes";""
+"2030911";"Time travelled: 30 to 59 minutes";""
+"2030931";"Time travelled: 60 to 119 minutes";""
+"2030950";"Time travelled: 120 minutes or more";""
+"2031000";"Departure time: 09:00 to 11:59 AM";"The time period in which the trip was started."
+"2031090";"Sunday";"Day of the week on which the trip took place. For example, this is an average across all Sundays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031100";"Monday";"Day of the week on which the trip took place. For example, this is an average across all Mondays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031110";"Tuesday";"Day of the week on which the trip took place. For example, this is an average across all Tuesdays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031120";"Wednesday";"Day of the week on which the trip took place. For example, this is an average across all Wednesdays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031130";"Thursday";"Day of the week on which the trip took place. For example, this is an average across all Thursdays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031140";"Friday";"Day of the week on which the trip took place. For example, this is an average across all Frydays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031150";"Saturday";"Day of the week on which the trip took place. For example, this is an average across all Saturdays. Also persons who indicated that they have not travelled on that day of the week (zero trips), are included."
+"2031160";"Trip in January";"The month in which the trip took place. This is an average over the days of January, i.e. an average day to month. People who indicated that they had not travelled on the survey day in January were also counted."
+"2031170";"Trip in February";"The month in which the trip took place. This is an average over the days of February, i.e. an average day to month. People who indicated that they had not travelled on the survey day in February, were also counted."
+"2031180";"Trip in March";"The month in which the trip took place. This is an average over the days of March, i.e. an average day to month. People who indicated that they had not travelled on the survey day in March were also counted."
+"2031190";"Trip in April";"The month in which the trip took place. This is an average over the days of April, i.e. an average day to month. People who indicated that they had not travelled on the survey day in April, were also counted."
+"2031200";"Trip in May";"The month in which the trip took place. This is an average over the days of May, i.e. an average day to month. People who indicated that they had not travelled on the survey day in May, were also counted."
+"2031210";"Trip in June";"The month in which the trip took place. This is an average over the days of June, i.e. an average day to month. People who indicated that they had not travelled on the survey day in June were also counted."
+"2031220";"Trip in July";"The month in which the trip took place. This is an average over the days of July i.e. an average day to month. People who indicated that they had not travelled on the survey day in July were also counted."
+"2031230";"Trip in August";"The month in which the trip took place. This is an average over the days of August, i.e. an average day to month. People who indicated that they had not travelled on the survey day in August, were also counted."
+"2031240";"Trip in September";"The month in which the trip took place. This is an average over the days of September, i.e. an average day to month. People who indicated that they had not travelled on the survey day in September, were also counted."
+"2031250";"Trip in October";"The month in which the trip took place. This is an average over the days of October, i.e. an average day to month. People who indicated that they had not travelled on the survey day in October, were also counted."
+"2031260";"Trip in November";"The month in which the trip took place. This is an average over the days of November, i.e. an average day to month. People who indicated that they had not travelled on the survey day in November, were also counted."
+"2031270";"Trip in December";"The month in which the trip took place. This is an average over the days of December, i.e. an average day to month. People who indicated that they had not travelled on the survey day in December, were also counted."
+"2820701";"Departure time: 00:00 to 06:59 AM";"The time period in which the trip was started."
+"2820702";"Departure time: 07:00 to 08:59 AM";"The time period in which the trip was started."
+"2820704";"Departure time: 12:00 to 03:59 PM";"The time period in which the trip was started."
+"2820705";"Departure time: 04:00 to 05:59 PM";"The time period in which the trip was started."
+"2820706";"Departure time: 06:00 to 11:59 PM";"The time period in which the trip was started."
+"T001005";"Total";""
+"A025261";"Distance: 0 to <1 km";""
+"A025262";"Distance: 1 to 3,6 km";""
+"A025263";"Distance: 3,7 to 7,4 km";""
+"A025264";"Distance: 7,5 to 14 km";""
+"A025265";"Distance: 15 to 29 km";""
+"A025266";"Distance: 30 to 49 km";""
+"A025267";"Distance: 50 to 74 km";""
+"A025268";"Distance: 75 km or more";""
+"Margins"
+Key;Title;Description
+"MW00000";"Value";""
+"MOG0095";"Lower bound 95% confidence interval";"This is the lower bound of the interval that contains the true (unknown) value with 95% certainty."
+"MBG0095";"Upper bound 95% confidence interval";"This is the upper bound of the interval that contains the true (unknown) value with 95% certainty"
+"RegionCharacteristics"
+Key;Title;Description
+"NL01    ";"The Netherlands";""
+"LD01    ";"Noord-Nederland (LD)";"LD = Group of provinces
+
+Noord-Nederland: Groningen, Fryslân, Drenthe
+
+Regional grouping of provinces. The Netherlands has 4 groups of provinces."
+"LD02    ";"Oost-Nederland (LD)";"LD = Group of provinces
+
+Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+Regional grouping of provinces. The Netherlands has 4 groups of provinces."
+"LD03    ";"West-Nederland (LD)";"LD = Group of provinces
+
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+Regional grouping of provinces. The Netherlands has 4 groups of provinces."
+"LD04    ";"Zuid-Nederland (LD)";"LD = Group of provinces
+
+Zuid-Nederland: Noord-Brabant, Limburg
+
+Regional grouping of provinces. The Netherlands has 4 groups of provinces."
+"PV20    ";"Groningen (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV21    ";"Fryslân (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV22    ";"Drenthe (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV23    ";"Overijssel (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV24    ";"Flevoland (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV25    ";"Gelderland (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV26    ";"Utrecht (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV27    ";"Noord-Holland (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV28    ";"Zuid-Holland (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV29    ";"Zeeland (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV30    ";"Noord-Brabant (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"PV31    ";"Limburg (PV)";"PV = Province
+
+Administrative classification of the Dutch territory. The Netherlands has had 12 provinces since the creation of the province Flevoland on 1 January 1986."
+"1018850 ";"Extremely urbanised";"Urbanisation is classified on the basis of five categories of surrounding address density.
+Extremely urbanised: 2,500 addresses or more per square kilometre.
+
+Surrounding address density: the average number of addresses within a one kilometre radius."
+"1018905 ";"Strongly urbanised";"Urbanisation is classified on the basis of five categories of surrounding address density.
+Strongly urbanised: 1,500 to 2,000 addresses per square kilometre.
+
+Surrounding address density: the average number of addresses within a one kilometre radius."
+"1018955 ";"Moderately urbanised";"Urbanisation is classified on the basis of five categories of surrounding address density.
+Moderately urbanised: 1,000 to 1,500 addresses per square kilometre. 
+
+Surrounding address density: the average number of addresses within a one kilometre radius."
+"1019005 ";"Hardly urbanised";"Urbanisation is classified on the basis of five categories of surrounding address density.
+Hardly urbanised: 500 to 1,000 addresses per square kilometre.
+
+Surrounding address density: the average number of addresses within a one kilometre radius.
+"
+"1019052 ";"Not urbanised";"Urbanisation is classified on the basis of five categories of surrounding address density.
+Not urbanised: fewer than 500 addresses per square kilometre.
+
+Surrounding address density: the average number of addresses within a one kilometre radius."
+"Periods"
+Key;Title;Description
+"2018JJ00";"2018";
+"2019JJ00";"2019";
+"2020JJ00";"2020";
+"2021JJ00";"2021";
