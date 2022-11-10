@@ -1,0 +1,80 @@
+﻿KEY;VALUES
+2030851;Time travelled: 0 to 9 minutes
+2030871;Time travelled: 10 to 19 minutes
+2030891;Time travelled: 20 to 29 minutes
+2030911;Time travelled: 30 to 59 minutes
+2030931;Time travelled: 60 to 119 minutes
+2030950;Time travelled: 120 minutes or more
+2031000;Departure time: 09:00 to 11:59 AM
+2031090;Sunday
+2031100;Monday
+2031110;Tuesday
+2031120;Wednesday
+2031130;Thursday
+2031140;Friday
+2031150;Saturday
+2031160;Trip in January
+2031170;Trip in February
+2031180;Trip in March
+2031190;Trip in April
+2031200;Trip in May
+2031210;Trip in June
+2031220;Trip in July
+2031230;Trip in August
+2031240;Trip in September
+2031250;Trip in October
+2031260;Trip in November
+2031270;Trip in December
+2820701;Departure time: 00:00 to 06:59 AM
+2820702;Departure time: 07:00 to 08:59 AM
+2820704;Departure time: 12:00 to 03:59 PM
+2820705;Departure time: 04:00 to 05:59 PM
+2820706;Departure time: 06:00 to 11:59 PM
+T001093;Total
+A048583;Passenger car (driver)
+A048584;Passenger car (passenger)
+A018981;Train
+A018982;Bus/metro
+A018984;Bike
+A018985;Walking
+A018986;Other
+A048710;Population 6 years or older
+A048709;Population: 12 years or older
+T001005;Total
+A025261;Distance: 0 to <1 km
+A025262;Distance: 1 to 3,6 km
+A025263;Distance: 3,7 to 7,4 km
+A025264;Distance: 7,5 to 14 km
+A025265;Distance: 15 to 29 km
+A025266;Distance: 30 to 49 km
+A025267;Distance: 50 to 74 km
+A025268;Distance: 75 km or more
+MW00000;Value
+MOG0095;Lower bound 95% confidence interval
+MBG0095;Upper bound 95% confidence interval
+NL01    ;The Netherlands
+LD01    ;Noord-Nederland (LD)
+LD02    ;Oost-Nederland (LD)
+LD03    ;West-Nederland (LD)
+LD04    ;Zuid-Nederland (LD)
+PV20    ;Groningen (PV)
+PV21    ;Fryslân (PV)
+PV22    ;Drenthe (PV)
+PV23    ;Overijssel (PV)
+PV24    ;Flevoland (PV)
+PV25    ;Gelderland (PV)
+PV26    ;Utrecht (PV)
+PV27    ;Noord-Holland (PV)
+PV28    ;Zuid-Holland (PV)
+PV29    ;Zeeland (PV)
+PV30    ;Noord-Brabant (PV)
+PV31    ;Limburg (PV)
+1018850;Extremely urbanised
+1018905;Strongly urbanised
+1018955;Moderately urbanised
+1019005;Hardly urbanised
+1019052;Not urbanised
+2018JJ00;2018
+2019JJ00;2019
+2020JJ00;2020
+2021JJ00;2021
